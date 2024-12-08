@@ -1,3 +1,3 @@
 # DB-exam
-This is my first repository
-I am looking forward to learning more. 
+DB-exam is difficult
+Very indeed
